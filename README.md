@@ -5,9 +5,11 @@
 
 Here are some ideas to get you started:-->
 
-- 😄 I will graduate from Sun Yet-sen universtiy in 2021, now my major is computer science..
+- 😄 I will graduate from Sun Yet-sen universtiy in 2021, now my major is computer science.
 - 🔭 I’m currently working on Android developing, woring for kuaishou.
 - 🌱 I plan to change my woring direction, back end is good.
-- 👯 My interests include run, watching movie and playing play tennis.
+- 👯 My interests include run, watching movie and playing tennis.
 - 💬 Cantact my by email zhulk3@outlook.com;
+
+[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=zhulk3
 
