@@ -12,4 +12,5 @@ Here are some ideas to get you started:-->
 - 💬 Cantact my by email zhulk3@outlook.com;
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zhulk3)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhulk3)](https://github.com/anuraghazra/github-readme-stats)
 
