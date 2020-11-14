@@ -20,6 +20,9 @@ Here are some ideas to get you started:-->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhulk3&repo=convoychat" />
 </a>
 
--->
+
 [![zhulk3's github stats](https://github-readme-stats.vercel.app/api?username=zhulk3&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhulk3&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+-->
+[![zhulk3's github stats](https://github-readme-stats.vercel.app/api?username=zhulk3&count_private=true&show_icons=true&hide=issues&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhulk3&layout=compact&hide_border=true) 
