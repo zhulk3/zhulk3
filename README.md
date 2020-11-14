@@ -14,9 +14,9 @@ Here are some ideas to get you started:-->
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhulk3)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zhulk3)](https://github.com/anuraghazra/github-readme-stats) -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhulk3&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhulk3&repo=convoychat" />
 </a>
 
