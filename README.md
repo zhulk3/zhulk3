@@ -12,7 +12,7 @@ Here are some ideas to get you started:-->
 - 💬 Cantact my by email zhulk3@outlook.com;
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhulk3)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zhulk3)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zhulk3)](https://github.com/anuraghazra/github-readme-stats)
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhulk3&repo=github-readme-stats" />
 </a>
@@ -20,3 +20,5 @@ Here are some ideas to get you started:-->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhulk3&repo=convoychat" />
 </a>
 
+-->
+[![zhulk3's github stats](https://github-readme-stats.vercel.app/api?username=zhulk3)](https://github.com/anuraghazra/github-readme-stats)
