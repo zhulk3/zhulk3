@@ -3,11 +3,11 @@
 <!--
 **zhulk3/zhulk3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:-->
 
 - 😄 I will graduate from Sun Yet-sen universtiy in 2021, now my major is computer science..
 - 🔭 I’m currently working on Android developing, woring for kuaishou.
 - 🌱 I plan to change my woring direction, back end is good.
 - 👯 My interests include run, watching movie and playing play tennis.
 - 💬 Cantact my by email zhulk3@outlook.com;
--->
+
