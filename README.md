@@ -9,7 +9,7 @@ Here are some ideas to get you started:-->
 - 🔭 I’m currently working on Android developing, working for kuaishou.
 - 🌱 I plan to change my working direction, back end is good.
 - 👯 My interests include run, watching movie and playing tennis.
-- 💬 Contact my by email zhulk3@outlook.com;
+- 💬 Contact me by email zhulk3@outlook.com;
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhulk3)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zhulk3)](https://github.com/anuraghazra/github-readme-stats)
