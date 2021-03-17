@@ -5,11 +5,11 @@
 
 Here are some ideas to get you started:-->
 
-- 😄 I will graduate from Sun Yet-sen universtiy in 2021, now my major is computer science.
-- 🔭 I’m currently working on Android developing, woring for kuaishou.
-- 🌱 I plan to change my woring direction, back end is good.
+- 😄 I will graduate from Sun Yat-Sen universtiy in 2021, now my major is computer science.
+- 🔭 I’m currently working on Android developing, working for kuaishou.
+- 🌱 I plan to change my working direction, back end is good.
 - 👯 My interests include run, watching movie and playing tennis.
-- 💬 Cantact my by email zhulk3@outlook.com;
+- 💬 Contact my by email zhulk3@outlook.com;
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhulk3)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zhulk3)](https://github.com/anuraghazra/github-readme-stats)
